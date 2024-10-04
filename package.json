@@ -1,0 +1,20 @@
+{
+  "name": "keyboard-listener",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "lightweight package for providing better usability using keyboard events",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "keyborad",
+    "keyboard-events",
+    "keypress",
+    "onkeyup",
+    "onkeydown"
+  ],
+  "author": "job.hghs@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}
